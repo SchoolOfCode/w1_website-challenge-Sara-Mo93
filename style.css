@@ -6,7 +6,6 @@ font-style: italic;
 text-align: center;}
 
 nav {background-color: #DFEA9B;
-    margin:8px;
     }
 
 .button {
@@ -24,7 +23,6 @@ nav {background-color: #DFEA9B;
 
 }
 
-
 #becki {float: left;
     border-radius: 10px;
      width: 250px; 
@@ -32,8 +30,7 @@ nav {background-color: #DFEA9B;
      margin: 0 15px 0 0;
 }
 
-
-body {line-height: 1.5; 
+body { 
  margin: 65px; 
  background-color: white; 
 }
@@ -41,20 +38,19 @@ body {line-height: 1.5;
 article { font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 80%;
      background-color: #f1f0e8; 
-     margin: auto; padding: 20px; }
-
-
+     margin: auto; padding: 20px; 
+    }
 
 h1 { font-size:40px; 
     color: #6BCAD0; 
     text-align: center; } 
 
 
-
 h2 { font-size: 20px;
      color: #6BCAD0;}
 
-h3 {padding-bottom: 20px;}     
+h3 {color: black;
+font-family: monospace;}     
 
 
 iframe {width: 270px;
@@ -74,7 +70,14 @@ height: 270px;}
     width: 45px;
     height: 45px;
     display: inline-flex;
-    padding: 15px;
+    padding-right: 10px;
     }
 
+#contact {
+    margin: 0px 0 0 50px;
+    font-size: 20px;
+    
+}
+footer { background-color: #DFEA9B;
+}
  
