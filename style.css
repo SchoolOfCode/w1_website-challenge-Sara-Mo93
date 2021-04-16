@@ -1,0 +1,83 @@
+
+#logo {color: teal;
+font-family: monospace;
+font-size: 50px;
+font-style: italic;
+text-align: center;}
+
+nav {background-color: #DFEA9B;
+    }
+
+.button {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 50px;
+    height: 35px;
+    color:black;
+    text-decoration-line: none;
+}
+
+.button:hover{
+  background-color: teal;
+
+}
+
+#becki {float: left;
+    border-radius: 10px;
+     width: 250px; 
+     height: 250px;
+     margin: 0 15px 0 0;
+}
+
+body { 
+ margin: 65px; 
+ background-color: white; 
+}
+
+article { font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 80%;
+     background-color: #f1f0e8; 
+     margin: auto; padding: 20px; 
+    }
+
+h1 { font-size:40px; 
+    color: #6BCAD0; 
+    text-align: center; } 
+
+
+h2 { font-size: 20px;
+     color: #6BCAD0;}
+
+h3 {color: black;
+font-family: monospace;}     
+
+
+iframe {width: 270px;
+height: 270px;}
+
+
+.port { 
+    border-radius: 15px;
+    float: left;
+    width: 250px;
+    height: 250px;
+    padding-right: 60px;
+    padding-bottom: 20px;}
+
+.bottom {
+    list-style: none;
+    width: 45px;
+    height: 45px;
+    display: inline-flex;
+    padding-right: 10px;
+    }
+
+#contact {
+    margin: 0px 0 0 50px;
+    font-size: 20px;
+    
+}
+footer { background-color: #DFEA9B;
+}
+ 
